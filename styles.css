@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    padding: 20px;
+}
+
+.bluebg {
+    background-color: blue;
+}
+
+.whitetxt {
+    color: white;
+}
+
+div {
+    border: 5px solid black;
+    display: inline-block;
+    text-align: center;
+    width: 600px;
+    height: 200px;
+    margin-left: 90px;
+    margin-right: 90px
+
+}
+
+main {
+    padding: 30px;
+}
+
+.divlarge {
+    display: block;
+    width: 2200;
+    height: 500;
+    margin-top: 30px;
+}
+
+img {
+    width: 2200;
+    height: 500;
+}
